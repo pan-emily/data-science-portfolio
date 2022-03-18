@@ -15,7 +15,7 @@ Contributors: Emily Pan
 
 Used many types of matrix factorization to model MovieLens data, and visualize dataset on 2D map projection onto results of matrix factorization. Method 1  uses from-scratch implementation of Singular Value Decomposition (SVD). Method 2 experiments with bias on Suprise SVD implementation. Method 3a and 3b explores unbiased off-the-shelf implementations in the Surprise library: SVD, SVDpp, NMF (Non-negative Matrix Factorization). 
 
-![Unbiased Example](https://github.com/pan-emily/portfolio/blob/movielens-visualizations/movie_example_unbiased?raw=true)
+![Unbiased Example](https://github.com/pan-emily/portfolio/blob/movielens-visualization/movie_example_unbiased.png?raw=true)
 
 
 ## Loan Status Predictor, Winter 2021-22
