@@ -1,6 +1,20 @@
 # Emily Pan's Code Portfolio
 
 
+## MovieLens Movie Ratings Visualization, Winter 2021-22
+
+### Preliminary Plots
+
+Contributors: Carolyn Lu, Emily Pan, Sarah Yun, Teresa Huang 
+
+Plotted given data to observe features of the dataset. 
+
+### Matrix Factorization Visualizations
+
+Contributors: Emily Pan
+
+Used many types of matrix factorization to model MovieLens data, and visualize dataset on 2D map projection onto results of matrix factorization. Method 1  uses from-scratch implementation of Singular Value Decomposition (SVD). Method 2 experiments with bias on Suprise SVD implementation. Method 3a and 3b explores unbiased off-the-shelf implementations in the Surprise library: SVD, SVDpp, NMF (Non-negative Matrix Factorization). 
+
 ## Loan Status Predictor, Winter 2021-22
 
 Contributors: Emily Pan, Sarah Yun
