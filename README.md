@@ -1,6 +1,6 @@
 # Emily Pan's Code Portfolio
 
-## Shakespeare Sonnet Generator and Hidden Markov Model Visualizer
+## Shakespeare Sonnet Generator and Hidden Markov Model Visualizer, Winter 2021-22
 
 Contributors: Emily Pan
 
