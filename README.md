@@ -15,8 +15,9 @@ Contributors: Emily Pan
 
 Used many types of matrix factorization to model MovieLens data, and visualize dataset on 2D map projection onto results of matrix factorization. Method 1  uses from-scratch implementation of Singular Value Decomposition (SVD). Method 2 experiments with bias on Suprise SVD implementation. Method 3a and 3b explores unbiased off-the-shelf implementations in the Surprise library: SVD, SVDpp, NMF (Non-negative Matrix Factorization). 
 
-![Unbiased Example](/movielens-visualization/movie_example_unbiased.png?raw=true|width=50)
-![Biased Example](/movielens-visualization/movie_example_bias.png?raw=true|width=50)
+<img src="/movielens-visualization/movie_example_unbiased.png" width="500"> <img src="/movielens-visualization/movie_example_bias.png" width="500">
+
+
 
 
 
