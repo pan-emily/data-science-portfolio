@@ -1,13 +1,19 @@
 # Emily Pan's Code Portfolio
 
+## Shakespeare Sonnet Generator and Hidden Markov Model Visualizer
+
+Contributors: Emily Pan
+
+Implemented a Hidden Markov Model to generate new Shakespearean sonnets based on Shakespeare's past work. Implemented features to generate rhyming lines so that Shakespeare's rhyme scheme is preserved. Also implemented functionality to control number of syllables per line. Adapted model to generate other poetic forms, like haikus, Petrarchan sonnets, limericks. 
+
 
 ## MovieLens Movie Ratings Visualization, Winter 2021-22
 
 ### Preliminary Plots
 
-Contributors: Carolyn Lu, Emily Pan, Sarah Yun, Teresa Huang 
+Contributors: Carolyn Lu, Sarah Yun, Teresa Huang 
 
-Plotted given data to observe features of the dataset. 
+Plotted given data to observe features of the dataset. Used sklearn's imputers to fill missing values. 
 
 ### Matrix Factorization Visualizations
 
