@@ -35,6 +35,7 @@ Experimented with different models to predict the status of a loan based on feat
 
 
 ## Putt Putt Caltech, Spring 2021
+http://www.its.caltech.edu/~blank/cs3-21sp/golf.html
 
 Contributors: Depei Li, Emily Pan, Joy Shi, Neha Dalia
 
