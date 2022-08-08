@@ -43,6 +43,11 @@ Contributors: Emily Pan, Sarah Yun
 
 Experimented with different models to predict the status of a loan based on features of the customer. Sole contributor to Neural Network code, joint effort for other classifiers: MLP, Logistic Regression, SGD, Random Forest. Achieved best accuracy of 70% on hidden test set. 
 
+## CryoDAS, Summer 2021
+
+Contributors: Emily Pan
+
+Summer Undergraduate Research Fellowship (SURF) project at the Hutzler Lab. CryoDAS provides a user-interactive way to visualize time-series data collected from the absorption of laser light in cryogenic molecular beam experiments. 
 
 ## Putt Putt Caltech, Spring 2021
 http://www.its.caltech.edu/~blank/cs3-21sp/golf.html
