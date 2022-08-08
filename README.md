@@ -5,9 +5,9 @@
 Contributors: Chenxin Fang, Emily Pan, Prakash Srivastava, Wei Zhou
 
 Given a dataset of accepted and rejected loan characteristics from LendingClub, a peer-to-peer lending service, we sought to investigate three main areas: 
-	1. How does social disclosure impact interest and default rates? 
-	2. How are immigrants impacted by LendingClub and its 2016 changes? 
-	3. How important is geography for LendingClub’s growth?
+  1. How does social disclosure impact interest and default rates? 
+  2. How are immigrants impacted by LendingClub and its 2016 changes? 
+  3. How important is geography for LendingClub’s growth?
 We used Natural Language Processing, Principal Component Analysis, Random Effects Regression, and Spatial Regression. 
 
 ## Shakespeare Sonnet Generator and Hidden Markov Model Visualizer, Winter 2021-22
