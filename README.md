@@ -2,7 +2,7 @@
 
 ## Citadel Summer Invitational Datathon. Text, Demography, and Geography: An Analysis of LendingClub, Summer 2022
 
-Contributors: (insert team members) 
+Contributors: Chenxin Fang, Emily Pan, Prakash Srivastava, Wei Zhou
 
 Given a dataset of accepted and rejected loan characteristics from LendingClub, a peer-to-peer lending service, we sought to investigate three main areas: 
 	1. How does social disclosure impact interest and default rates? 
@@ -21,7 +21,7 @@ Implemented a Hidden Markov Model to generate new Shakespearean sonnets based on
 
 ### Preliminary Plots
 
-Contributors: Carolyn Lu, Sarah Yun, Teresa Huang 
+Contributors: Carolyn Lu, Emily Pan, Sarah Yun, Teresa Huang 
 
 Plotted given data to observe features of the dataset. Used sklearn's imputers to fill missing values. 
 
