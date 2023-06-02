@@ -1,4 +1,4 @@
-# Emily Pan's Code Portfolio
+# Emily Pan's Data Science Portfolio
 
 ## Citadel Summer Invitational Datathon. Text, Demography, and Geography: An Analysis of LendingClub, Summer 2022
 
